@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+.count{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    padding: 2rem;
+    font-size: 10rem;
+}
+.container{
+    display: flex;
+    justify-content: space-around;    
+}
+button{
+    background-color: rgba(255, 255, 255, 0.486);
+    border-radius: 20px;
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: center;
+    width: 250px;
+    height: 150px;
+    cursor: pointer;
+}
